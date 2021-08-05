@@ -1,0 +1,99 @@
+CCooppyyrriigghhtt  11998855--11998888  PPhhooeenniixx  TTeecchhnnoollooggiieess  LLttdd..
+Penny@(#)Apricot SoftDisk Device Driver  Va 1.0.0  18th Jun 87
+Network hardware not present
+Network hardware is faulty
+Fatal timeout error on initialise
+Duplicate station number
+$Network Station $
+
+[Display adapter failed; using alternate
+?[No timer tick interrupt
+ZShutdown failure
+TZTimer chip counter 2 failed
+
+YKeyboard 
+tY failure
+controller
+clock line
+data line
+stuck key
+XTime-of-day clock stopped
+WInvalid configuration information - please run SETUP program
+VTime-of-day not set - please run SETUP program
+7VKeyboard is locked - please unlock
+ROM bad checksum = 
+
+T0h Optional 
+$0<0t
+hRGate A20 failure
+QUnexpected interrupt in protected mode
+ Decreasing available memory
+P064K Base Memory, 
+yP00000K Extended
+OMemory tests terminated by keystroke
+
+parity
+data line
+odd/even logic
+double word logic
+high address line
+write/read
+MMemory 
+M failure at 
+M, read 
+M expecting 
+M0000-
+MFFFF
+ strike F1 to retry boot
+Diskette read failure -
+Not a boot diskette -
+No boot device available -
+Hard disk read failure -
+No boot sector on hard disk -
+K Strike the F1 key to continue
+
+PKHard disk configuration error
+JHard disk controller failure
+4JNot Ready
+%JSetup
+JRecal
+JRead
+I Error on Hard Disk 
+
+1234567890-=
+qwertyuiop[]
+asdfghjkl;'`
+\zxcvbnm,./
+;<=>?@ABCD
+!@#$%^&*()_+
+QWERTYUIOP{}
+ASDFGHJKL:"~
+|ZXCVBNM<>?
+TUVWXYZ[\]
+789-456+1230.
+^_`abcdefg
+xyz{|}~
+hijklmnopq
+
+U*Diskette drive 0 seek failure
+*Diskette drive 1 seek failure
+)Invalid configuration information - please run SETUP program
+
+Copyright (C) 1985-1988 Phoenix Technologies Ltd.
+All Rights Reserved
+Copyright (C) 1988 Apricot Computers plc
+PC/286 BIOS VR 1.2.1  22nd July 1988
+
+80286 ROM BIOS PLUS Version 3.10.01
+
+ interrupt at 
+ Type (S)hut off NMI,
+
+I/O card parity
+Memory parity
+
+.  Type (R)eboot, other keys to continue
+
+APRICOT
+0077//2222//8888
+01/15/88
