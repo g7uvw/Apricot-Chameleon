@@ -12,5 +12,5 @@ There are three EPROMS on the board:
 These are in the git repo. The HI and LO ROMs need to be merged to form a 16-bit ROM for the 286 processor on the board. This is done in hardware on the board. Looking at the ROM images in a hex editor it seems they would be merged at some offset, as there is clear text at the start of both ROMs before thinsg become garbled by interleaving. 
 
 [The Centre for Computing History
-](https://t.co/R8O4M0eFnW?amp=1) has the only known complete computer using this board.
+](https://t.co/R8O4M0eFnW?amp=1) has the only known [complete computer](http://www.computinghistory.org.uk/det/65290/Apricot-Chameleon/) using this board.
 
