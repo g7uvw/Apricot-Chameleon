@@ -1,7 +1,7 @@
 # Apricot Chameleon PC091-B
 ## 11B279 21
 
-There is almost zero information online about this 1988 vintage computer motherboard. What information I have found is documented on Twitter in [this thread](https://twitter.com/DTL/status/1422919801475842049).
+There is almost zero information online about this 1988 vintage computer motherboard. 
 
 There are three EPROMS on the board:
 
